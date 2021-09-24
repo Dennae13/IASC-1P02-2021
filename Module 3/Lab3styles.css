@@ -1,0 +1,40 @@
+body{
+	background-color: black;
+}
+
+p{
+	color: blue;
+}
+/*this is for notes*/
+.firstclass{
+	color: red;
+}
+
+#firstID{
+color: green;
+}
+
+#greentext{
+	color: green;
+	font-weight: bold;
+	text-align: center;
+}
+
+#orangetext{
+color: orange;
+}
+
+#purpletext{
+color: purple;
+text-align: right;
+}
+
+#redsuper{
+color: red;
+vertical-align: super;
+}
+#yellowcaps{
+color: yellow;
+font-style: italic;
+text-transform: uppercase;
+}
