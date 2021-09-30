@@ -1,0 +1,19 @@
+p#paraID{
+  /*Most specific*/
+  background-color: blue;
+  color: white;
+  margin-top: 20px;
+  margin-right: 60px;
+  margin-bottom: 10%;
+  margin-left: 25%;
+  padding: 16px;
+  border: black 3px solid;
+}
+
+p.para{
+  /* More specific*/
+  background-color: orange;
+}
+p{
+  background-color: green;
+}
