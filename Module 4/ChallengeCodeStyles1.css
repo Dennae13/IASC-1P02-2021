@@ -1,28 +1,27 @@
 body{
   background-color: blue;
-  margin-top: 85px;
-  margin-right: 85px;
-  margin-bottom: 200px;
-  margin-left: 85px;
-  padding: 16px;
-  border: black 3px solid;
 }
 
-p#paraID{
-  color: magenta;
-  margin-top: 10px;
-  margin-right: 60px;
-  margin-bottom: 100%;
-  margin-left: 25%;
-  padding: 16px;
-  border: darkgreen 1px dashed;
-  text-align: left;
+#paraID{
+  margin-top: 150px;
+  margin-right: 140px;
+  margin-bottom: 150px;
+  margin-left: 140px;
+  padding: 5px 5px 5px 5px;
+  border: black 4px solid;
 }
 
 img{
-  margin-top: 10px;
-  padding: 10px;
+  margin: 10px 10px 10px 10px;
+  margin-left: -4px;
+  margin-bottom: -4px;
+  padding: 20px 20px 20px 20px;
   border: orange 2px dashed;
-  text-align: left;
-
+}
+p{
+  color: magenta;
+  margin: 10px 10px 10px 10px;
+  border: green 2px dashed;
+  border-width: thin;
+  padding: 5px 5px 5px 5px;
 }
