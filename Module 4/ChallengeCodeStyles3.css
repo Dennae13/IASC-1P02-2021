@@ -1,20 +1,24 @@
-
-p{
-  background-color: green;
-  color: purple;
-}
-
-div p{
-  background-color: green;
+div p.redletter{
   color: red;
-  margin-top: 20px;
-  margin-right: 60px;
-  margin-bottom: 10%;
-  margin-left: 25%;
-  padding: 16px;
-  border: black 3px dashed;
 }
-p#darkgreen{
-  color: darkgreen;
 
+#box2{
+  margin: 20px 20px 20px 20px;
+  border-width: medium;
+  border: black 5px dashed;
+  padding: 5px 5px 5px 5px;
+  background-color: green;
+}
+
+div p.darkgreenletter{
+  color: darkgreen;
+}
+
+div p.purpleletter{
+  color: purple;
+  background-color: green;
+}
+
+#box1{
+  background-color: green;
 }
