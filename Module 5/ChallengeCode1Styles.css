@@ -1,0 +1,33 @@
+#header{
+  background-color: red;
+  color: white;
+  text-align: center;
+  font-size: 15px;
+  height: 70px;
+  float: left;
+  width: 1345px;
+}
+
+#greenbox{
+  background-color: green;
+  color: white;
+  height: 500px;
+  font-size: 12px;
+  float: left;
+  width: 1345px;
+  height: 600px;
+}
+
+#bluebox{
+  background-color: blue;
+  color: white;
+  height: 70px;
+  font-size: 12px;
+  float: left;
+  width: 1345px;
+}
+
+#wrapper{
+  width: 1345px;
+  margin: 0 auto;
+}
