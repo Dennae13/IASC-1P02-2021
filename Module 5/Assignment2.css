@@ -1,0 +1,43 @@
+.text1{
+  color: magenta;
+}
+
+.font1{
+  font-family: arial, serif;
+}
+
+.size1{
+  font-size: 20px;
+}
+
+.upper1{
+    text-transform: uppercase;
+}
+
+.fixed1{
+  position: fixed;
+}
+
+.relative1{
+  position: relative;
+  right: 30px;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  padding: 10px;
+  border: 3px black solid;
+  background-color: pink;
+}
+
+.absolute1{
+  position: absolute;
+  left: 90px;
+}
+
+.marked{
+  color: red;
+}
+
+.pink,.pink2,.pink3 {
+  color: pink;
+}
