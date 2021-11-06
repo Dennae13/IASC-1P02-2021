@@ -1,0 +1,112 @@
+body{
+  background-color: orange;
+}
+
+#header{
+  background-color: blue;
+  color: black;
+  text-align: center;
+  font-size: 30px;
+  height: 120px;
+  float: left;
+  width: 1346px;
+  font-family: arial, serif;
+}
+#logo{
+  position: relative;
+  right: 1px;
+  top: 380px;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  padding: 10px;
+  border: 3px black solid;
+  background-color: white;
+}
+
+#logo2{
+  position: relative;
+  right: -1195px;
+  bottom: 970px;
+  width: 100px;
+  height: 80px;
+  margin: 10px;
+  padding: 10px;
+  border: 3px black solid;
+  background-color: white;
+}
+#box2{
+  background-color: pink;
+  height: 700px;
+  float: left;
+  width: 200px;
+  font-weight: bold;
+  font-size: 14px;
+  font-family: arial, serif;
+}
+#box3{
+  background-color: red;
+  height: 200px;
+  float: left;
+  width: 550px;
+  font-weight: bold;
+  font-size: 14px;
+  font-family: arial, serif;
+}
+#box4{
+  background-color: purple;
+  height: 600px;
+  width: 750px;
+  font-weight: bold;
+  font-size: 14px;
+  font-family: arial, serif;
+}
+#box5{
+  background-color: green;
+  height: 206px;
+  width: 750px;
+  font-weight: bold;
+  font-size: 14px;
+  font-family: arial, serif;
+
+}
+#box6{
+  background-color: yellow;
+  height: 330px;
+  float: right;
+  width: 596px;
+  position: relative;
+  font-weight: bold;
+  right: 0px;
+  bottom: 700px;
+  font-size: 14px;
+  font-family: arial, serif;
+}
+#box7{
+  background-color: magenta;
+  height: 370px;
+  float: right;
+  width: 596px;
+  position: relative;
+  font-weight: bold;
+  right: -595px;
+  bottom: 370px;
+  font-size: 14px;
+  font-family: arial, serif;
+}
+#box8{
+  background-color: blue;
+  color: black;
+  text-align: center;
+  font-size: 14px;
+  height: 150px;
+  float: left;
+  width: 1346px;
+  font-weight: bold;
+  font-family: arial, serif;
+}
+
+#wrapper{
+  width: 1346px;
+  margin: 0 auto;
+}
