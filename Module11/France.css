@@ -1,0 +1,61 @@
+body{
+	background-color: #ebdfb0;
+}
+p, h1, h2, h3, a, ul, ol, tr, label{
+  font-family: arial, serif;
+}
+.crosshair{
+	cursor: crosshair; /* W3Schools. (n.d.). JavaScript Tutorial. Retrieved December 1, 2021, from https://www.w3schools.com/js/default.asp*/
+}
+h1, h2, h3{
+  color: #2a9191;
+}
+h1, table{
+	text-align: center;
+}
+.darkYellow {
+  background-color: #f0cd6c;
+}
+.footer{
+	position: fixed;
+  left: 130px;
+  bottom: 0;
+  width: 100%;
+  color: #2a9191;
+  text-align: center;
+}
+.blueEffect:hover{
+	background-color: #68c0c4; /* W3Schools. (n.d.). JavaScript Tutorial. Retrieved December 1, 2021, from https://www.w3schools.com/js/default.asp*/
+}
+.pic1{
+	position: relative;
+  left: 300px;
+  width: 250px;
+  height: 250px;
+  border: 3px black solid;
+  background-color: black;
+}
+.pic2{
+	position: relative;
+  left: 100px;
+  width: 270px;
+  height: 250px;
+  border: 3px black solid;
+  background-color: black;
+}
+.pic3{
+	position: relative;
+  left: 5px;
+  width: 200px;
+  height: 180px;
+  border: 3px black solid;
+  background-color: black;
+}
+.pic4{
+	position: relative;
+  left: 10px;
+  width: 250px;
+  height: 180px;
+  border: 3px black solid;
+  background-color: black;
+}
